@@ -9,3 +9,5 @@ This project is meant to test my JavaScript, D3, HTML and Plotly knowledge. I ex
 The file types in this repository are JavaScript, JSON and HTML files.
 
 Here is the [link](https://leonluong1.github.io/belly-button-challenge/) to the project web page.
+
+Another link to the web page: https://leonluong1.github.io/belly-button-challenge/
