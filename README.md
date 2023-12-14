@@ -7,3 +7,5 @@ This project is about examining the biodiversity of microbial species within ind
 This project is meant to test my JavaScript, D3, HTML and Plotly knowledge. I extracted json data from a [website](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json) using D3 and manipulated the HTML page to include the new Plotly visualizations. 
 
 The file types in this repository are JavaScript, JSON and HTML files.
+
+Here is the [link](https://leonluong1.github.io/belly-button-challenge/) to the project web page.
